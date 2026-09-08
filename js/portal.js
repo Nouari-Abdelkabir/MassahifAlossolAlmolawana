@@ -5,65 +5,65 @@
 // جميع المصاحف (39 مصحفاً)
 const mushafsData = [
     // ========== قالون (4) ==========
-    { id: "qalun1", name: "مصحف قالون - بالقصر والإسكان", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/qalun1.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/qalun1/", icon: "1️⃣", category: "قالون" },
-    { id: "qalun2", name: "مصحف قالون - بالقصر والصلة", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/qalun2.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/qalun2/", icon: "1️⃣", category: "قالون" },
-    { id: "qalun3", name: "مصحف قالون - بالتوسط والإسكان", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/qalun3.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/qalun3/", icon: "1️⃣", category: "قالون" },
-    { id: "qalun4", name: "مصحف قالون - بالتوسط والصلة", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/qalun4.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/qalun4/", icon: "1️⃣", category: "قالون" },
+    { id: "qalun1", name: "مصحف قالون - بالقصر والإسكان", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/qalun1.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/qalun1/", icon: "1️⃣", category: "قالون" },
+    { id: "qalun2", name: "مصحف قالون - بالقصر والصلة", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/qalun2.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/qalun2/", icon: "1️⃣", category: "قالون" },
+    { id: "qalun3", name: "مصحف قالون - بالتوسط والإسكان", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/qalun3.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/qalun3/", icon: "1️⃣", category: "قالون" },
+    { id: "qalun4", name: "مصحف قالون - بالتوسط والصلة", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/qalun4.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/qalun4/", icon: "1️⃣", category: "قالون" },
     
     // ========== ورش (5) ==========
-    { id: "warch1", name: "مصحف ورش - بقصر البدل مع الفتح", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/warch1.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/warch1/", icon: "1️⃣", category: "ورش" },
-    { id: "warch2", name: "مصحف ورش - بتوسط البدل مع التقليل", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/warch2.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/warch2/", icon: "1️⃣", category: "ورش" },
-    { id: "warch3", name: "مصحف ورش - بإشباع البدل مع الفتح", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/warch3.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/warch3/", icon: "1️⃣", category: "ورش" },
-    { id: "warch4", name: "مصحف ورش - بإشباع البدل مع التقليل", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/warch4.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/warch4/", icon: "1️⃣", category: "ورش" },
-    { id: "asbahani", name: "مصحف ورش - من طريق الأصبهاني", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/asbahani.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/asbahani/", icon: "1️⃣", category: "ورش" },
+    { id: "warch1", name: "مصحف ورش - بقصر البدل مع الفتح", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/warch1.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/warch1/", icon: "1️⃣", category: "ورش" },
+    { id: "warch2", name: "مصحف ورش - بتوسط البدل مع التقليل", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/warch2.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/warch2/", icon: "1️⃣", category: "ورش" },
+    { id: "warch3", name: "مصحف ورش - بإشباع البدل مع الفتح", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/warch3.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/warch3/", icon: "1️⃣", category: "ورش" },
+    { id: "warch4", name: "مصحف ورش - بإشباع البدل مع التقليل", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/warch4.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/warch4/", icon: "1️⃣", category: "ورش" },
+    { id: "asbahani", name: "مصحف ورش - من طريق الأصبهاني", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/asbahani.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/asbahani/", icon: "1️⃣", category: "ورش" },
     
     // ========== ابن كثير (3) ==========
-    { id: "ibnkatir", name: "مصحف ابن كثير", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/ibnkatir.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/ibnkatir/", icon: "2️⃣", category: "ابن كثير" },
-    { id: "bazzi", name: "مصحف البزي - عن ابن كثير", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/bazzi.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/bazzi/", icon: "2️⃣", category: "ابن كثير" },
-    { id: "qonbol", name: "مصحف قنبل - عن ابن كثير", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/konboul.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/qonbol/", icon: "2️⃣", category: "ابن كثير" },
+    { id: "ibnkatir", name: "مصحف ابن كثير", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/ibnkatir.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/ibnkatir/", icon: "2️⃣", category: "ابن كثير" },
+    { id: "bazzi", name: "مصحف البزي - عن ابن كثير", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/bazzi.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/bazzi/", icon: "2️⃣", category: "ابن كثير" },
+    { id: "qonbol", name: "مصحف قنبل - عن ابن كثير", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/konboul.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/qonbol/", icon: "2️⃣", category: "ابن كثير" },
     
     // ========== أبو عمرو (4) ==========
-    { id: "abouamr", name: "مصحف أبي عمرو البصري", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/abouamralbasri.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/abouamr/", icon: "3️⃣", category: "أبو عمرو" },
-    { id: "douri1", name: "مصحف الدوري - عن أبي عمرو (بالتوسط)", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/douritawasot.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/douri/", icon: "3️⃣", category: "أبو عمرو" },
-    { id: "douri2", name: "مصحف الدوري - عن أبي عمرو (بالقصر)", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/dourikaser.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/douri/", icon: "3️⃣", category: "أبو عمرو" },
-    { id: "soussi", name: "مصحف السوسي - عن أبي عمرو", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/soussi.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/soussi/", icon: "3️⃣", category: "أبو عمرو" },
+    { id: "abouamr", name: "مصحف أبي عمرو البصري", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/abouamralbasri.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/abouamr/", icon: "3️⃣", category: "أبو عمرو" },
+    { id: "douri1", name: "مصحف الدوري - عن أبي عمرو (بالتوسط)", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/douritawasot.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/douri/", icon: "3️⃣", category: "أبو عمرو" },
+    { id: "douri2", name: "مصحف الدوري - عن أبي عمرو (بالقصر)", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/dourikaser.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/douri/", icon: "3️⃣", category: "أبو عمرو" },
+    { id: "soussi", name: "مصحف السوسي - عن أبي عمرو", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/soussi.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/soussi/", icon: "3️⃣", category: "أبو عمرو" },
     
     // ========== ابن عامر (3) ==========
-    { id: "ibnamir", name: "مصحف ابن عامر الشامي", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/ibenamir.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/ibnamir/", icon: "4️⃣", category: "ابن عامر" },
-    { id: "hicham", name: "مصحف هشام - عن ابن عامر", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/hicham.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/hicham/", icon: "4️⃣", category: "ابن عامر" },
-    { id: "ibnthakwan", name: "مصحف ابن ذكوان - عن ابن عامر", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/ibenthakwan.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/ibnthakwan/", icon: "4️⃣", category: "ابن عامر" },
+    { id: "ibnamir", name: "مصحف ابن عامر الشامي", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/ibenamir.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/ibnamir/", icon: "4️⃣", category: "ابن عامر" },
+    { id: "hicham", name: "مصحف هشام - عن ابن عامر", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/hicham.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/hicham/", icon: "4️⃣", category: "ابن عامر" },
+    { id: "ibnthakwan", name: "مصحف ابن ذكوان - عن ابن عامر", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/ibenthakwan.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/ibnthakwan/", icon: "4️⃣", category: "ابن عامر" },
     
     // ========== عاصم (3) ==========
-    { id: "assim", name: "مصحف عاصم", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/assim.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/assim/", icon: "5️⃣", category: "عاصم" },
-    { id: "choaaba", name: "مصحف شعبة - عن عاصم", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/choaaba.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/choaaba/", icon: "5️⃣", category: "عاصم" },
-    { id: "hafes", name: "مصحف حفص - عن عاصم", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/hafes.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/hafes/", icon: "5️⃣", category: "عاصم" },
+    { id: "assim", name: "مصحف عاصم", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/assim.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/assim/", icon: "5️⃣", category: "عاصم" },
+    { id: "choaaba", name: "مصحف شعبة - عن عاصم", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/choaaba.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/choaaba/", icon: "5️⃣", category: "عاصم" },
+    { id: "hafes", name: "مصحف حفص - عن عاصم", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/hafes.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/hafes/", icon: "5️⃣", category: "عاصم" },
     
     // ========== حمزة (5) ==========
-    { id: "hamza", name: "مصحف حمزة", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/hamza.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/hamza/", icon: "6️⃣", category: "حمزة" },
-    { id: "khalaf1", name: "مصحف خلف - بالسكت على ال وشيء", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/khalafsakt1.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/khalaf/", icon: "6️⃣", category: "حمزة" },
-    { id: "khalaf2", name: "مصحف خلف - بالسكت على ال وشيء والمفصول", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/khalafsakt2.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/khalaf/", icon: "6️⃣", category: "حمزة" },
-    { id: "khallad1", name: "مصحف خلاد - بالسكت على ال وشيء", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/khalladsakt.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/khallad/", icon: "6️⃣", category: "حمزة" },
-    { id: "khallad2", name: "مصحف خلاد - بلا سكت", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/khalladbilasakt.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/khallad/", icon: "6️⃣", category: "حمزة" },
+    { id: "hamza", name: "مصحف حمزة", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/hamza.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/hamza/", icon: "6️⃣", category: "حمزة" },
+    { id: "khalaf1", name: "مصحف خلف - بالسكت على ال وشيء", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/khalafsakt1.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/khalaf/", icon: "6️⃣", category: "حمزة" },
+    { id: "khalaf2", name: "مصحف خلف - بالسكت على ال وشيء والمفصول", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/khalafsakt2.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/khalaf/", icon: "6️⃣", category: "حمزة" },
+    { id: "khallad1", name: "مصحف خلاد - بالسكت على ال وشيء", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/khalladsakt.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/khallad/", icon: "6️⃣", category: "حمزة" },
+    { id: "khallad2", name: "مصحف خلاد - بلا سكت", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/khalladbilasakt.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/khallad/", icon: "6️⃣", category: "حمزة" },
     
     // ========== الكسائي (3) ==========
-    { id: "kissai", name: "مصحف الكسائي", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/kissai.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/kissai/", icon: "7️⃣", category: "الكسائي" },
-    { id: "layth", name: "مصحف الليث - عن الكسائي", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/aboulharit.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/layth/", icon: "7️⃣", category: "الكسائي" },
-    { id: "dourikissai", name: "مصحف الدوري - عن الكسائي", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/dourikissai.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/dourikissai/", icon: "7️⃣", category: "الكسائي" },
+    { id: "kissai", name: "مصحف الكسائي", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/kissai.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/kissai/", icon: "7️⃣", category: "الكسائي" },
+    { id: "layth", name: "مصحف الليث - عن الكسائي", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/aboulharit.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/layth/", icon: "7️⃣", category: "الكسائي" },
+    { id: "dourikissai", name: "مصحف الدوري - عن الكسائي", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/dourikissai.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/dourikissai/", icon: "7️⃣", category: "الكسائي" },
     
     // ========== أبو جعفر (3) ==========
-    { id: "aboujaafar", name: "مصحف أبو جعفر", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/aboujaafar.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/aboujaafar/", icon: "8️⃣", category: "أبو جعفر" },
-    { id: "ibnwardan", name: "مصحف ابن وردان - عن أبي جعفر", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/ibnwirdan.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/ibnwardan/", icon: "8️⃣", category: "أبو جعفر" },
-    { id: "ibnjamaz", name: "مصحف ابن جماز - عن أبي جعفر", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/ibnjamaz.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/ibnjamaz/", icon: "8️⃣", category: "أبو جعفر" },
+    { id: "aboujaafar", name: "مصحف أبو جعفر", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/aboujaafar.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/aboujaafar/", icon: "8️⃣", category: "أبو جعفر" },
+    { id: "ibnwardan", name: "مصحف ابن وردان - عن أبي جعفر", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/ibnwirdan.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/ibnwardan/", icon: "8️⃣", category: "أبو جعفر" },
+    { id: "ibnjamaz", name: "مصحف ابن جماز - عن أبي جعفر", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/ibnjamaz.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/ibnjamaz/", icon: "8️⃣", category: "أبو جعفر" },
     
     // ========== يعقوب (3) ==========
-    { id: "yaakoub", name: "مصحف يعقوب", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/yaakoub.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/yaakoub/", icon: "9️⃣", category: "يعقوب" },
-    { id: "rowais", name: "مصحف رويس - عن يعقوب", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/rowais.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/rowais/", icon: "9️⃣", category: "يعقوب" },
-    { id: "rawh", name: "مصحف روح - عن يعقوب", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/rawh.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/rawh/", icon: "9️⃣", category: "يعقوب" },
+    { id: "yaakoub", name: "مصحف يعقوب", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/yaakoub.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/yaakoub/", icon: "9️⃣", category: "يعقوب" },
+    { id: "rowais", name: "مصحف رويس - عن يعقوب", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/rowais.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/rowais/", icon: "9️⃣", category: "يعقوب" },
+    { id: "rawh", name: "مصحف روح - عن يعقوب", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/rawh.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/rawh/", icon: "9️⃣", category: "يعقوب" },
     
     // ========== خلف العاشر (3) ==========
-    { id: "khalaf10", name: "مصحف خلف العاشر", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/khalaf10.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/khalaf10/", icon: "🔟", category: "خلف العاشر" },
-    { id: "ishak", name: "مصحف إسحاق - عن خلف العاشر", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/ishak.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/ishak/", icon: "🔟", category: "خلف العاشر" },
-    { id: "idriss", name: "مصحف إدريس - عن خلف العاشر", pdfUrl: "https://massahifalossol-nouari.github.io/MassahifAlossol/pdfs/idriss.pdf", audioBase: "https://massahifalossol-nouari.github.io/MassahifAlossol/audio/idriss/", icon: "🔟", category: "خلف العاشر" }
+    { id: "khalaf10", name: "مصحف خلف العاشر", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/khalaf10.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/khalaf10/", icon: "🔟", category: "خلف العاشر" },
+    { id: "ishak", name: "مصحف إسحاق - عن خلف العاشر", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/ishak.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/ishak/", icon: "🔟", category: "خلف العاشر" },
+    { id: "idriss", name: "مصحف إدريس - عن خلف العاشر", pdfUrl: "https://nouari-abdelkabir.github.io/MassahifAlossol/pdfs/idriss.pdf", audioBase: "https://nouari-abdelkabir.github.io/MassahifAlossol/audio/idriss/", icon: "🔟", category: "خلف العاشر" }
 ];
 
 // ========================================
